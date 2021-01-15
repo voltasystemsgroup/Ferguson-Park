@@ -1,0 +1,10 @@
+<Device Model="DIN-AP3">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-CBD-P" DeviceId="03"/>
+      <Device Model="GLXX-2DIM8" DeviceId="11"/>
+      <Device Model="GLXX-2DIM8" DeviceId="12"/>
+      <Device Model="GLXP-DIMFLV8" DeviceId="13"/>
+      <Device Model="DIN-8SW8" DeviceId="14"/>
+   </Network>
+   <Network Type="Ethernet" Id="02"/>
+</Device>
